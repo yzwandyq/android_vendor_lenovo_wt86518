@@ -39,34 +39,21 @@ PRODUCT_COPY_FILES += \
     vendor/lenovo/wt86518/proprietary/bin/rmt_storage:system/bin/rmt_storage \
     vendor/lenovo/wt86518/proprietary/bin/time_daemon:system/bin/time_daemon \
     vendor/lenovo/wt86518/proprietary/bin/vm_bms:system/bin/vm_bms \
+    vendor/lenovo/wt86518/proprietary/etc/data/dsi_config.xml:system/etc/data/dsi_config.xml \
+    vendor/lenovo/wt86518/proprietary/etc/data/netmgr_config.xml:system/etc/data/netmgr_config.xml \
     vendor/lenovo/wt86518/proprietary/etc/firmware/a300_pfp.fw:system/etc/firmware/a300_pfp.fw \
     vendor/lenovo/wt86518/proprietary/etc/firmware/a300_pm4.fw:system/etc/firmware/a300_pm4.fw \
     vendor/lenovo/wt86518/proprietary/etc/firmware/cpp_firmware_v1_1_1.fw:system/etc/firmware/cpp_firmware_v1_1_1.fw \
     vendor/lenovo/wt86518/proprietary/etc/firmware/cpp_firmware_v1_1_6.fw:system/etc/firmware/cpp_firmware_v1_1_6.fw \
     vendor/lenovo/wt86518/proprietary/etc/firmware/cpp_firmware_v1_2_0.fw:system/etc/firmware/cpp_firmware_v1_2_0.fw \
     vendor/lenovo/wt86518/proprietary/etc/firmware/cpp_firmware_v1_4_0.fw:system/etc/firmware/cpp_firmware_v1_4_0.fw \
-    vendor/lenovo/wt86518/proprietary/etc/mixer_paths_mtp.xml:system/etc/mixer_paths_mtp.xml \
-    vendor/lenovo/wt86518/proprietary/etc/mixer_paths_qrd_skuhf.xml:system/etc/mixer_paths_qrd_skuhf.xml \
-    vendor/lenovo/wt86518/proprietary/etc/mixer_paths_qrd_skuh.xml:system/etc/mixer_paths_qrd_skuh.xml \
-    vendor/lenovo/wt86518/proprietary/etc/mixer_paths_qrd_skui.xml:system/etc/mixer_paths_qrd_skui.xml \
-    vendor/lenovo/wt86518/proprietary/etc/mixer_paths_skuk.xml:system/etc/mixer_paths_skuk.xml \
-    vendor/lenovo/wt86518/proprietary/etc/mixer_paths_skul.xml:system/etc/mixer_paths_skul.xml \
-    vendor/lenovo/wt86518/proprietary/etc/mixer_paths_wcd9306.xml:system/etc/mixer_paths_wcd9306.xml \
     vendor/lenovo/wt86518/proprietary/etc/permissions/qcnvitems.xml:system/etc/permissions/qcnvitems.xml \
     vendor/lenovo/wt86518/proprietary/etc/permissions/qcrilhook.xml:system/etc/permissions/qcrilhook.xml \
-    vendor/lenovo/wt86518/proprietary/etc/sound_trigger_mixer_paths_wcd9306.xml:system/etc/sound_trigger_mixer_paths_wcd9306.xml \
-    vendor/lenovo/wt86518/proprietary/etc/sound_trigger_mixer_paths.xml:system/etc/sound_trigger_mixer_paths.xml \
-    vendor/lenovo/wt86518/proprietary/etc/sound_trigger_platform_info.xml:system/etc/sound_trigger_platform_info.xml \
-    vendor/lenovo/wt86518/proprietary/etc/spn-conf.xml:system/etc/spn-conf.xml \
     vendor/lenovo/wt86518/proprietary/lib/hw/camera.msm8916.so:system/lib/hw/camera.msm8916.so \
-    vendor/lenovo/wt86518/proprietary/lib/hw/gps.msm8916.so:system/lib/hw/gps.msm8916.so \
     vendor/lenovo/wt86518/proprietary/lib/libcamera2ndk.so:system/lib/libcamera2ndk.so \
     vendor/lenovo/wt86518/proprietary/lib/libcamera_client.so:system/lib/libcamera_client.so \
     vendor/lenovo/wt86518/proprietary/lib/libcamera_metadata.so:system/lib/libcamera_metadata.so \
     vendor/lenovo/wt86518/proprietary/lib/libcameraservice.so:system/lib/libcameraservice.so \
-    vendor/lenovo/wt86518/proprietary/lib/libgps.utils.so:system/lib/libgps.utils.so \
-    vendor/lenovo/wt86518/proprietary/lib/libloc_core.so:system/lib/libloc_core.so \
-    vendor/lenovo/wt86518/proprietary/lib/libloc_eng.so:system/lib/libloc_eng.so \
     vendor/lenovo/wt86518/proprietary/lib/libmmcamera_interface.so:system/lib/libmmcamera_interface.so \
     vendor/lenovo/wt86518/proprietary/lib/libmmjpeg_interface.so:system/lib/libmmjpeg_interface.so \
     vendor/lenovo/wt86518/proprietary/lib/libmm-qcamera.so:system/lib/libmm-qcamera.so \
@@ -171,6 +158,7 @@ PRODUCT_COPY_FILES += \
     vendor/lenovo/wt86518/proprietary/vendor/lib/libdsutils.so:system/vendor/lib/libdsutils.so \
     vendor/lenovo/wt86518/proprietary/vendor/lib/libfastcvopt.so:system/vendor/lib/libfastcvopt.so \
     vendor/lenovo/wt86518/proprietary/vendor/lib/libFlacSwDec.so:system/vendor/lib/libFlacSwDec.so \
+    vendor/lenovo/wt86518/proprietary/vendor/lib/libflp.so:system/vendor/lib/libflp.so \
     vendor/lenovo/wt86518/proprietary/vendor/lib/libgeofence.so:system/vendor/lib/libgeofence.so \
     vendor/lenovo/wt86518/proprietary/vendor/lib/libgsl.so:system/vendor/lib/libgsl.so \
     vendor/lenovo/wt86518/proprietary/vendor/lib/libHevcSwDecoder.so:system/vendor/lib/libHevcSwDecoder.so \
@@ -282,6 +270,7 @@ PRODUCT_COPY_FILES += \
     vendor/lenovo/wt86518/proprietary/vendor/lib/libmmcamera_wavelet_lib.so:system/vendor/lib/libmmcamera_wavelet_lib.so \
     vendor/lenovo/wt86518/proprietary/vendor/lib/libmmcamera_wingtech_ov13850_eeprom.so:system/vendor/lib/libmmcamera_wingtech_ov13850_eeprom.so \
     vendor/lenovo/wt86518/proprietary/vendor/lib/libmm-color-convertor.so:system/vendor/lib/libmm-color-convertor.so \
+    vendor/lenovo/wt86518/proprietary/vendor/lib/libmm-disp-apis.so:system/vendor/lib/libmm-disp-apis.so \
     vendor/lenovo/wt86518/proprietary/vendor/lib/libmmipl.so:system/vendor/lib/libmmipl.so \
     vendor/lenovo/wt86518/proprietary/vendor/lib/libmmjpeg.so:system/vendor/lib/libmmjpeg.so \
     vendor/lenovo/wt86518/proprietary/vendor/lib/libmmosal.so:system/vendor/lib/libmmosal.so \
@@ -335,7 +324,6 @@ PRODUCT_COPY_FILES += \
 PRODUCT_PACKAGES += \
     libloc_api_v02 \
     libloc_ds_api \
-    libmm-disp-apis \
     libtime_genoff \
     shutdownlistener \
     TimeService \
