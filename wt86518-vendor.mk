@@ -80,54 +80,18 @@ PRODUCT_COPY_FILES += \
     vendor/lenovo/wt86518/proprietary/vendor/lib/libacdb-fts.so:system/vendor/lib/libacdb-fts.so \
     vendor/lenovo/wt86518/proprietary/vendor/lib/libacdbloader.so:system/vendor/lib/libacdbloader.so \
     vendor/lenovo/wt86518/proprietary/vendor/lib/libacdbrtac.so:system/vendor/lib/libacdbrtac.so \
-    vendor/lenovo/wt86518/proprietary/vendor/lib/libactuator_a3907_camcorder.so:system/vendor/lib/libactuator_a3907_camcorder.so \
-    vendor/lenovo/wt86518/proprietary/vendor/lib/libactuator_a3907_camera.so:system/vendor/lib/libactuator_a3907_camera.so \
-    vendor/lenovo/wt86518/proprietary/vendor/lib/libactuator_a3907.so:system/vendor/lib/libactuator_a3907.so \
-    vendor/lenovo/wt86518/proprietary/vendor/lib/libactuator_bu64297_q13v06k_camcorder.so:system/vendor/lib/libactuator_bu64297_q13v06k_camcorder.so \
-    vendor/lenovo/wt86518/proprietary/vendor/lib/libactuator_bu64297_q13v06k_camera.so:system/vendor/lib/libactuator_bu64297_q13v06k_camera.so \
-    vendor/lenovo/wt86518/proprietary/vendor/lib/libactuator_bu64297_q13v06k.so:system/vendor/lib/libactuator_bu64297_q13v06k.so \
     vendor/lenovo/wt86518/proprietary/vendor/lib/libactuator_dw9714_13p1ba_camcorder.so:system/vendor/lib/libactuator_dw9714_13p1ba_camcorder.so \
     vendor/lenovo/wt86518/proprietary/vendor/lib/libactuator_dw9714_13p1ba_camera.so:system/vendor/lib/libactuator_dw9714_13p1ba_camera.so \
     vendor/lenovo/wt86518/proprietary/vendor/lib/libactuator_dw9714_13p1ba.so:system/vendor/lib/libactuator_dw9714_13p1ba.so \
-    vendor/lenovo/wt86518/proprietary/vendor/lib/libactuator_dw9714a_camcorder.so:system/vendor/lib/libactuator_dw9714a_camcorder.so \
-    vendor/lenovo/wt86518/proprietary/vendor/lib/libactuator_dw9714a_camera.so:system/vendor/lib/libactuator_dw9714a_camera.so \
-    vendor/lenovo/wt86518/proprietary/vendor/lib/libactuator_dw9714a.so:system/vendor/lib/libactuator_dw9714a.so \
-    vendor/lenovo/wt86518/proprietary/vendor/lib/libactuator_dw9714_camcorder.so:system/vendor/lib/libactuator_dw9714_camcorder.so \
-    vendor/lenovo/wt86518/proprietary/vendor/lib/libactuator_dw9714_camera.so:system/vendor/lib/libactuator_dw9714_camera.so \
-    vendor/lenovo/wt86518/proprietary/vendor/lib/libactuator_dw9714_pc0fe_camcorder.so:system/vendor/lib/libactuator_dw9714_pc0fe_camcorder.so \
-    vendor/lenovo/wt86518/proprietary/vendor/lib/libactuator_dw9714_pc0fe_camera.so:system/vendor/lib/libactuator_dw9714_pc0fe_camera.so \
-    vendor/lenovo/wt86518/proprietary/vendor/lib/libactuator_dw9714_pc0fe.so:system/vendor/lib/libactuator_dw9714_pc0fe.so \
-    vendor/lenovo/wt86518/proprietary/vendor/lib/libactuator_dw9714_q13n04a_camcorder.so:system/vendor/lib/libactuator_dw9714_q13n04a_camcorder.so \
-    vendor/lenovo/wt86518/proprietary/vendor/lib/libactuator_dw9714_q13n04a_camera.so:system/vendor/lib/libactuator_dw9714_q13n04a_camera.so \
-    vendor/lenovo/wt86518/proprietary/vendor/lib/libactuator_dw9714_q13n04a.so:system/vendor/lib/libactuator_dw9714_q13n04a.so \
-    vendor/lenovo/wt86518/proprietary/vendor/lib/libactuator_dw9714_q13v04b_camcorder.so:system/vendor/lib/libactuator_dw9714_q13v04b_camcorder.so \
-    vendor/lenovo/wt86518/proprietary/vendor/lib/libactuator_dw9714_q13v04b_camera.so:system/vendor/lib/libactuator_dw9714_q13v04b_camera.so \
-    vendor/lenovo/wt86518/proprietary/vendor/lib/libactuator_dw9714_q13v04b.so:system/vendor/lib/libactuator_dw9714_q13v04b.so \
-    vendor/lenovo/wt86518/proprietary/vendor/lib/libactuator_dw9714.so:system/vendor/lib/libactuator_dw9714.so \
-    vendor/lenovo/wt86518/proprietary/vendor/lib/libactuator_dw9716_camcorder.so:system/vendor/lib/libactuator_dw9716_camcorder.so \
-    vendor/lenovo/wt86518/proprietary/vendor/lib/libactuator_dw9716_camera.so:system/vendor/lib/libactuator_dw9716_camera.so \
-    vendor/lenovo/wt86518/proprietary/vendor/lib/libactuator_dw9716.so:system/vendor/lib/libactuator_dw9716.so \
     vendor/lenovo/wt86518/proprietary/vendor/lib/libactuator_dw9718s_2gong_camcorder.so:system/vendor/lib/libactuator_dw9718s_2gong_camcorder.so \
     vendor/lenovo/wt86518/proprietary/vendor/lib/libactuator_dw9718s_2gong_camera.so:system/vendor/lib/libactuator_dw9718s_2gong_camera.so \
     vendor/lenovo/wt86518/proprietary/vendor/lib/libactuator_dw9718s_2gong.so:system/vendor/lib/libactuator_dw9718s_2gong.so \
     vendor/lenovo/wt86518/proprietary/vendor/lib/libactuator_dw9718s_camcorder.so:system/vendor/lib/libactuator_dw9718s_camcorder.so \
     vendor/lenovo/wt86518/proprietary/vendor/lib/libactuator_dw9718s_camera.so:system/vendor/lib/libactuator_dw9718s_camera.so \
     vendor/lenovo/wt86518/proprietary/vendor/lib/libactuator_dw9718s.so:system/vendor/lib/libactuator_dw9718s.so \
-    vendor/lenovo/wt86518/proprietary/vendor/lib/libactuator_dw9761b_camcorder.so:system/vendor/lib/libactuator_dw9761b_camcorder.so \
-    vendor/lenovo/wt86518/proprietary/vendor/lib/libactuator_dw9761b_camera.so:system/vendor/lib/libactuator_dw9761b_camera.so \
-    vendor/lenovo/wt86518/proprietary/vendor/lib/libactuator_dw9761b.so:system/vendor/lib/libactuator_dw9761b.so \
     vendor/lenovo/wt86518/proprietary/vendor/lib/libactuator_dw9761_ofilm_camcorder.so:system/vendor/lib/libactuator_dw9761_ofilm_camcorder.so \
     vendor/lenovo/wt86518/proprietary/vendor/lib/libactuator_dw9761_ofilm_camera.so:system/vendor/lib/libactuator_dw9761_ofilm_camera.so \
     vendor/lenovo/wt86518/proprietary/vendor/lib/libactuator_dw9761_ofilm.so:system/vendor/lib/libactuator_dw9761_ofilm.so \
-    vendor/lenovo/wt86518/proprietary/vendor/lib/libactuator_iu074_camcorder.so:system/vendor/lib/libactuator_iu074_camcorder.so \
-    vendor/lenovo/wt86518/proprietary/vendor/lib/libactuator_iu074_camera.so:system/vendor/lib/libactuator_iu074_camera.so \
-    vendor/lenovo/wt86518/proprietary/vendor/lib/libactuator_iu074.so:system/vendor/lib/libactuator_iu074.so \
-    vendor/lenovo/wt86518/proprietary/vendor/lib/libactuator_ov12830_camcorder.so:system/vendor/lib/libactuator_ov12830_camcorder.so \
-    vendor/lenovo/wt86518/proprietary/vendor/lib/libactuator_ov12830_camera.so:system/vendor/lib/libactuator_ov12830_camera.so \
-    vendor/lenovo/wt86518/proprietary/vendor/lib/libactuator_ov12830.so:system/vendor/lib/libactuator_ov12830.so \
-    vendor/lenovo/wt86518/proprietary/vendor/lib/libactuator_ov8825_camcorder.so:system/vendor/lib/libactuator_ov8825_camcorder.so \
-    vendor/lenovo/wt86518/proprietary/vendor/lib/libactuator_ov8825_camera.so:system/vendor/lib/libactuator_ov8825_camera.so \
-    vendor/lenovo/wt86518/proprietary/vendor/lib/libactuator_ov8825.so:system/vendor/lib/libactuator_ov8825.so \
     vendor/lenovo/wt86518/proprietary/vendor/lib/libactuator_rohm_bu64243gwz_camcorder.so:system/vendor/lib/libactuator_rohm_bu64243gwz_camcorder.so \
     vendor/lenovo/wt86518/proprietary/vendor/lib/libactuator_rohm_bu64243gwz_camera.so:system/vendor/lib/libactuator_rohm_bu64243gwz_camera.so \
     vendor/lenovo/wt86518/proprietary/vendor/lib/libactuator_rohm_bu64243gwz.so:system/vendor/lib/libactuator_rohm_bu64243gwz.so \
