@@ -35,7 +35,6 @@ PRODUCT_COPY_FILES += \
     vendor/lenovo/wt86518/proprietary/bin/qmuxd:system/bin/qmuxd \
     vendor/lenovo/wt86518/proprietary/bin/qseecomd:system/bin/qseecomd \
     vendor/lenovo/wt86518/proprietary/bin/radish:system/bin/radish \
-    vendor/lenovo/wt86518/proprietary/bin/rfs_access:system/bin/rfs_access \
     vendor/lenovo/wt86518/proprietary/bin/rmt_storage:system/bin/rmt_storage \
     vendor/lenovo/wt86518/proprietary/bin/time_daemon:system/bin/time_daemon \
     vendor/lenovo/wt86518/proprietary/bin/vm_bms:system/bin/vm_bms \
