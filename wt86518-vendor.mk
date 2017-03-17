@@ -150,18 +150,7 @@ PRODUCT_COPY_FILES += \
     vendor/lenovo/wt86518/proprietary/vendor/lib/libmmcamera_imglib.so:system/vendor/lib/libmmcamera_imglib.so \
     vendor/lenovo/wt86518/proprietary/vendor/lib/libmmcamera_imx219_q8n13a.so:system/vendor/lib/libmmcamera_imx219_q8n13a.so \
     vendor/lenovo/wt86518/proprietary/vendor/lib/libmmcamera_lenovo_ov5670_eeprom.so:system/vendor/lib/libmmcamera_lenovo_ov5670_eeprom.so \
-    vendor/lenovo/wt86518/proprietary/vendor/lib/libmmcamera_mt9m114.so:system/vendor/lib/libmmcamera_mt9m114.so \
-    vendor/lenovo/wt86518/proprietary/vendor/lib/libmmcamera_ov13850.so:system/vendor/lib/libmmcamera_ov13850.so \
-    vendor/lenovo/wt86518/proprietary/vendor/lib/libmmcamera_ov2680_5987fhq.so:system/vendor/lib/libmmcamera_ov2680_5987fhq.so \
-    vendor/lenovo/wt86518/proprietary/vendor/lib/libmmcamera_ov2680_cht852b.so:system/vendor/lib/libmmcamera_ov2680_cht852b.so \
-    vendor/lenovo/wt86518/proprietary/vendor/lib/libmmcamera_ov2680_skuhf.so:system/vendor/lib/libmmcamera_ov2680_skuhf.so \
-    vendor/lenovo/wt86518/proprietary/vendor/lib/libmmcamera_ov2680.so:system/vendor/lib/libmmcamera_ov2680.so \
-    vendor/lenovo/wt86518/proprietary/vendor/lib/libmmcamera_ov5670_q5v41b.so:system/vendor/lib/libmmcamera_ov5670_q5v41b.so \
-    vendor/lenovo/wt86518/proprietary/vendor/lib/libmmcamera_ov8858_q8v19w.so:system/vendor/lib/libmmcamera_ov8858_q8v19w.so \
-    vendor/lenovo/wt86518/proprietary/vendor/lib/libmmcamera_ov8858.so:system/vendor/lib/libmmcamera_ov8858.so \
-    vendor/lenovo/wt86518/proprietary/vendor/lib/libmmcamera_ov8865_q8v18a.so:system/vendor/lib/libmmcamera_ov8865_q8v18a.so \
     vendor/lenovo/wt86518/proprietary/vendor/lib/libmmcamera_sony_imx219_eeprom.so:system/vendor/lib/libmmcamera_sony_imx219_eeprom.so \
-    vendor/lenovo/wt86518/proprietary/vendor/lib/libmmcamera_sp2508.so:system/vendor/lib/libmmcamera_sp2508.so \
     vendor/lenovo/wt86518/proprietary/vendor/lib/libmmcamera_sunny_ov8858_q8v19w_eeprom.so:system/vendor/lib/libmmcamera_sunny_ov8858_q8v19w_eeprom.so \
     vendor/lenovo/wt86518/proprietary/vendor/lib/libmmcamera_sunny_q8v18a_eeprom.so:system/vendor/lib/libmmcamera_sunny_q8v18a_eeprom.so \
     vendor/lenovo/wt86518/proprietary/vendor/lib/libmmcamera_tintless_algo.so:system/vendor/lib/libmmcamera_tintless_algo.so \
