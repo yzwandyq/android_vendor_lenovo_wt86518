@@ -38,8 +38,6 @@ PRODUCT_COPY_FILES += \
     vendor/lenovo/wt86518/proprietary/bin/rmt_storage:system/bin/rmt_storage \
     vendor/lenovo/wt86518/proprietary/bin/time_daemon:system/bin/time_daemon \
     vendor/lenovo/wt86518/proprietary/bin/vm_bms:system/bin/vm_bms \
-    vendor/lenovo/wt86518/proprietary/etc/data/dsi_config.xml:system/etc/data/dsi_config.xml \
-    vendor/lenovo/wt86518/proprietary/etc/data/netmgr_config.xml:system/etc/data/netmgr_config.xml \
     vendor/lenovo/wt86518/proprietary/etc/firmware/a300_pfp.fw:system/etc/firmware/a300_pfp.fw \
     vendor/lenovo/wt86518/proprietary/etc/firmware/a300_pm4.fw:system/etc/firmware/a300_pm4.fw \
     vendor/lenovo/wt86518/proprietary/etc/firmware/cpp_firmware_v1_1_1.fw:system/etc/firmware/cpp_firmware_v1_1_1.fw \
